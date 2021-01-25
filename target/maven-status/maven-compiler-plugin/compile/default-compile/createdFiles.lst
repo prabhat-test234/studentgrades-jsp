@@ -1,0 +1,8 @@
+com\cogbook\grades\GradesApplication.class
+com\cogbook\grades\model\StudentDetails.class
+com\cogbook\grades\model\StudentGrade.class
+com\cogbook\grades\service\IGradeService.class
+com\cogbook\grades\model\ClassDetails.class
+com\cogbook\grades\service\Impl\GradesServiceImpl.class
+com\cogbook\grades\contoller\GradesSheetController.class
+com\cogbook\grades\model\ClassAssignments.class
